@@ -12,7 +12,8 @@ Speech recognition and text-to-speech technologies have become increasingly vita
 ![alt text](image.png)
 
 ### classroom GUI
-- student GUI - Received Transcription from Classroom GUI
+- student GUI - Received Transcription from Classroom GUI<br/>
 ![alt text](image-1.png)
-- classroom GUI 
+<br/>
+- classroom GUI <br/>
 ![alt text](image-2.png)
